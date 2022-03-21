@@ -4,6 +4,6 @@ public class G_BooleanAnd {
         if ((a<2) & (b++ <10)) {
             b +=2;
         }
-        System.out.println();
+        System.out.println(b);
     }
 }
